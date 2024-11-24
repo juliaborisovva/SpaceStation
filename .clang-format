@@ -1,0 +1,10 @@
+# Форматирование для C++
+BasedOnStyle: Google
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterClass: true
+  AfterFunction: true
+  AfterControlStatement: false
+ColumnLimit: 100
